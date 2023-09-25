@@ -1,14 +1,14 @@
 # Projet 10: Développez un chatbot pour reserver des vacances 
 
 ## Contexte
-'''
-L'entreprise Fly Me souhaite proposer à ses clients un chatbot pour réserver leurs billets d'avion.
-La tâche du chatbot sera d'extraire cinq informations pendant un dialogue avec un utilisateur:
-ville de départ, ville d'arrivée, date de départ, date d'arrivée et budget maximum pour le billet.
-Si l'utilisateur ne présise pas certaines de ces informations, le bot devr poser lui-même la question.
-Le chatbot devra poser lui-même des questions si l'utilisateur ne précise pas toutes ces informations, puis résumé l'échange et demander une confirmation finale de l'utilisateur.
-Le but est de créer un service de réservation intelligente plus rapide et agréable pour la clientèle en ligne.
-'''
+
+L'entreprise Fly Me souhaite proposer à ses clients un chatbot pour réserver leurs billets d'avion.  
+La tâche du chatbot sera d'extraire cinq informations pendant un dialogue avec un utilisateur:  
+ville de départ, ville d'arrivée, date de départ, date d'arrivée et budget maximum pour le billet.  
+Si l'utilisateur ne présise pas certaines de ces informations, le bot devr poser lui-même la question.  
+Le chatbot devra poser lui-même des questions si l'utilisateur ne précise pas toutes ces informations, puis résumé l'échange et demander une confirmation finale de l'utilisateur.  
+Le but est de créer un service de réservation intelligente plus rapide et agréable pour la clientèle en ligne.  
+
 
 ## Objectifs
 - Mise en place du pipeline de compréhension du language naturel LUIS:
